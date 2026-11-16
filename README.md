@@ -1,4 +1,4 @@
-# XPAD Rainbow temporary RAM patcher for BIGBIGWON Rainbow 2
+# XPAD Rainbow temporary RAM patcher for BIGBIGWON Rainbow 2 Pro
 
 `xpad_rainbow_patch.py` temporarily changes one early built-in entry in the
 already-loaded alpha `xpad.sprx` VSH module:
